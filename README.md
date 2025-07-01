@@ -39,7 +39,7 @@ In June 2025, the Trump administration cut USD 4 billion in federal funding for 
 
 **4. Smart Technology Integration**
 
-The digital railway market, valued at USD 82.76 billion in 2025, is transforming train body design. AI and IoT technologies, such as ASC’s QBA accelerometers showcased at the 2025 International Exhibition of Track Technology, enable real-time monitoring of structural integrity and vibration. These smart train bodies enhance safety and reduce maintenance costs, making them critical for high-speed operations.
+AI and IoT technologies, such as ASC’s QBA accelerometers showcased at the 2025 International Exhibition of Track Technology, enable real-time monitoring of structural integrity and vibration. These smart train bodies enhance safety and reduce maintenance costs, making them critical for high-speed operations.
 
 **5. Material Innovations and Sustainability**
 
@@ -55,34 +55,34 @@ The high-speed train body market is led by global giants like CRRC Corporation L
 
 Key activities include:
 
-•	CRRC: Dominating with the CR450, focusing on lightweight, aerodynamic train bodies.
+**•	CRRC:** Dominating with the CR450, focusing on lightweight, aerodynamic train bodies.
 
-•	Alstom: Developing modular train bodies with smart technologies for European HSR networks.
+**•	Alstom:** Developing modular train bodies with smart technologies for European HSR networks.
 
-•	Hitachi Rail: Supplying corrosion-resistant train bodies for India’s MAHSR, leveraging advanced materials.
+**•	Hitachi Rail:** Supplying corrosion-resistant train bodies for India’s MAHSR, leveraging advanced materials.
 
-•	Siemens: Pioneering AI-driven design optimization for durable, efficient train bodies.
+**•	Siemens:** Pioneering AI-driven design optimization for durable, efficient train bodies.
 
 ## Challenges and Opportunities
 
 The market faces several challenges:
 
-•	High Costs: Advanced materials like carbon fiber and automated manufacturing are expensive, limiting adoption in cost-sensitive regions.
+**•	High Costs:** Advanced materials like carbon fiber and automated manufacturing are expensive, limiting adoption in cost-sensitive regions.
 
-•	Regulatory Barriers: Complex regulations, particularly in the U.S., hinder project approvals and funding, as seen in California’s setback.
+**•	Regulatory Barriers:** Complex regulations, particularly in the U.S., hinder project approvals and funding, as seen in California’s setback.
 
-•	Supply Chain Constraints: Disruptions in the supply of composites and electronics impact production timelines and costs.
+**•	Supply Chain Constraints:** Disruptions in the supply of composites and electronics impact production timelines and costs.
 Opportunities include innovations in recyclable materials and automated manufacturing to reduce costs. Government support for green transportation, especially in Asia-Pacific, drives demand, while smart technology integration enhances train body performance and passenger safety.
 
 ## Future Outlook
 
 The high-speed train body market is poised for growth, driven by the broader HSR market’s projected rise to USD 98.9 billion by 2033. Key trends include:
 
-•	Lightweight Materials: Increased use of carbon fiber and recyclable composites for energy efficiency.
+**•	Lightweight Materials:** Increased use of carbon fiber and recyclable composites for energy efficiency.
 
-•	Smart Integration: AI and IoT for predictive maintenance and enhanced passenger experiences.
+**•	Smart Integration:** AI and IoT for predictive maintenance and enhanced passenger experiences.
 
-•	Global Expansion: Asia-Pacific, led by China and India, will dominate, with Europe and North America showing renewed interest through projects like Brightline West.
+**•	Global Expansion:** Asia-Pacific, led by China and India, will dominate, with Europe and North America showing renewed interest through projects like Brightline West.
 
 ## Conclusion
 
